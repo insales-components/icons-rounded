@@ -16,6 +16,7 @@
   font-weight: normal;
   font-variant: normal;
   text-transform: none;
+  line-height: 1;
 
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
@@ -31,7 +32,7 @@
 .icon-user:before {
   content: "\e951";
 }
-.icon-menu-symbol-of-three-parallel-lines:before {
+.icon-bars:before {
   content: "\e91c";
 }
 .icon-search:before {
