@@ -22,6 +22,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-times:before {
+  content: "\e90c";
+}
 .icon-minus:before {
   content: "\e900";
 }
@@ -252,9 +255,6 @@
 }
 .icon-eye-slash:before {
   content: "\e90b";
-}
-.icon-times:before {
-  content: "\e90c";
 }
 .icon-arrow-up:before {
   content: "\e90d";
